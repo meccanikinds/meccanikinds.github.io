@@ -1,14 +1,14 @@
-baseURL = "http://hatesquad.bounceme.net/"
+baseURL = "http://meccanikinds.github.io/"
 languageCode = "it"
 
-title = "HateSquad"
+title = "Common Grounds"
 theme = "kraiklyn"
 
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
 
 [params]
-#externalTitle = "Hatesquad"
+#externalTitle = "Common Grounds"
 sidebarColor = "red"
 #default, green, purple, pink, red, cyan, blue, grey, orange.
 customCss = []
@@ -17,6 +17,6 @@ customCss = []
 unsafe= true
 
 [[menu.shortcuts]]
-name = "Accedi all'FTP"
-url = "ftp://hatesquad.bounceme.net/"
+name = "Instagrounds"
+url = "www.instagram.com/meccanikinds"
 weight = 10
