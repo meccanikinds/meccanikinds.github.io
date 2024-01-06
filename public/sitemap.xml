@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://hatesquad.bounceme.net/config/rs2/</loc>
+    <lastmod>2020-12-07T19:45:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hatesquad.bounceme.net/intro/</loc>
+    <lastmod>2020-01-27T15:42:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hatesquad.bounceme.net/server/connect/</loc>
+  </url>
+  
+  <url>
+    <loc>http://hatesquad.bounceme.net/server/ipserver/</loc>
+    <lastmod>2020-12-12T10:34:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hatesquad.bounceme.net/config/wolf/</loc>
+    <lastmod>2018-01-28T21:48:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hatesquad.bounceme.net/server/</loc>
+    <lastmod>2018-01-27T15:42:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hatesquad.bounceme.net/config/</loc>
+    <lastmod>2018-01-27T15:42:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hatesquad.bounceme.net/</loc>
+    <lastmod>2020-12-12T10:34:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hatesquad.bounceme.net/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://hatesquad.bounceme.net/tags/</loc>
+  </url>
+  
+</urlset>

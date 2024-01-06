@@ -1,0 +1,22 @@
+baseURL = "http://hatesquad.bounceme.net/"
+languageCode = "it"
+
+title = "HateSquad"
+theme = "kraiklyn"
+
+pygmentsCodeFences = true
+pygmentsStyle = "monokailight"
+
+[params]
+#externalTitle = "Hatesquad"
+sidebarColor = "red"
+#default, green, purple, pink, red, cyan, blue, grey, orange.
+customCss = []
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[[menu.shortcuts]]
+name = "Accedi all'FTP"
+url = "ftp://hatesquad.bounceme.net/"
+weight = 10

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Config a.k.a. non ricordo l&#39;IP on HateSquad</title>
+    <link>http://inchiostro.bounceme.net/games/</link>
+    <description>Recent content in Config a.k.a. non ricordo l&#39;IP on HateSquad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Sat, 27 Jan 2018 15:42:17 +0100</lastBuildDate><atom:link href="http://inchiostro.bounceme.net/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wolf:ET</title>
+      <link>http://inchiostro.bounceme.net/games/wolf/</link>
+      <pubDate>Sun, 28 Jan 2018 21:48:10 +0100</pubDate>
+      
+      <guid>http://inchiostro.bounceme.net/games/wolf/</guid>
+      <description>Questa configurazione ha circa un decennio, è qui per motivi storiografici e perché l&amp;rsquo;ho scritta io: niente funziona più nel modo in cui è descritto qui.
+NON FATE I DURI E NON PROVATE A FARE NULLA DI QUELLO CHE C&amp;rsquo;È SCRITTO QUI  Download e installazione  Da &amp;ldquo;Non va una sega&amp;rdquo; a &amp;ldquo;Funziona tutto&amp;rdquo;
+-Zurgo-
+ Non serve molto oltre al gioco base (Wolfenstein: Enemy Territory, o duri!), il mod con cui giochiamo (ETpub) e il consigliatissimo programma di comunicazione tattico/militare(!</description>
+    </item>
+    
+    <item>
+      <title>RS2:Vietnam</title>
+      <link>http://inchiostro.bounceme.net/games/rs2/</link>
+      <pubDate>Mon, 07 Dec 2020 19:45:40 +0100</pubDate>
+      
+      <guid>http://inchiostro.bounceme.net/games/rs2/</guid>
+      <description>Perché tutto funzioni come deve, BASTA NON SCARICARE IL GIOCO DA EPICGAMES.COM</description>
+    </item>
+    
+  </channel>
+</rss>

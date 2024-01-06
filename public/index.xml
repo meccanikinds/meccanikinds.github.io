@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HateSquad</title>
+    <link>http://hatesquad.bounceme.net/</link>
+    <description>Recent content on HateSquad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Sat, 12 Dec 2020 10:34:42 +0100</lastBuildDate><atom:link href="http://hatesquad.bounceme.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RS2:Vietnam</title>
+      <link>http://hatesquad.bounceme.net/config/rs2/</link>
+      <pubDate>Mon, 07 Dec 2020 19:45:40 +0100</pubDate>
+      
+      <guid>http://hatesquad.bounceme.net/config/rs2/</guid>
+      <description>BASTAVA NON SCARICARE IL GIOCO DA EPICGAMES.COM.</description>
+    </item>
+    
+    <item>
+      <title>Connettersi</title>
+      <link>http://hatesquad.bounceme.net/server/connect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hatesquad.bounceme.net/server/connect/</guid>
+      <description>Come connettersi senza rompere :
+RS2:Vietnam cercare il server nelle liste. Il nome sarà inconfondibile. Se ci sono problemi controllate la configurazione per RS2:V qui.
+Se non va aprire una riga di console con F3, oppure tutta la console con ~ o `, ma solo dopo averla abilitata in Settings&amp;gt; Enable Developer Console.
+Dopo digitaredare il comando:
+open xxx.xxx.xxx.xxx  WOLF:ET Il server non è sulle liste pubbliche, da menù di connessione scegliere Connec to IP e scrivere l&amp;rsquo;IP o URL di questo sito.</description>
+    </item>
+    
+    <item>
+      <title>IP dei Server</title>
+      <link>http://hatesquad.bounceme.net/server/ipserver/</link>
+      <pubDate>Sat, 12 Dec 2020 10:34:42 +0100</pubDate>
+      
+      <guid>http://hatesquad.bounceme.net/server/ipserver/</guid>
+      <description>I nostri ninjascript ad ogni refresh della pagina controllano l&amp;rsquo;IP dei nostri server di gioco.
+State calmi e nessuno si farà del male.
+   Ip Address Last checked          | Server | Last checked |
+ fetch(&#34;https://dns.google/resolve?name=968a09db22e0.sn.mynetname.net&#34;) .then(function (response) { return response.json(); }) .then(function (myJson) { console.log(myJson.Answer); document.querySelector(&#34;#ipText&#34;).innerHTML = myJson.Answer[0].data; document.querySelector(&#34;#date&#34;).innerHTML = Date(Date.now()); }) .catch(function (error) { console.log(&#34;Error: &#34; + error); });  </description>
+    </item>
+    
+    <item>
+      <title>Wolf:ET</title>
+      <link>http://hatesquad.bounceme.net/config/wolf/</link>
+      <pubDate>Sun, 28 Jan 2018 21:48:10 +0100</pubDate>
+      
+      <guid>http://hatesquad.bounceme.net/config/wolf/</guid>
+      <description>Download e installazione Usate Windows e non rompete le scatole. Il gioco si scarica da qui.
+Se usate MacOSX o Linux-antani, non perdete le speranze e provate con questi.
+Non va? scrivete una mail al Papa.
+Tutti i pacchetti e le mappe custom si scaricano automagicamente da sole. Pazientate un attimo.
+HunkMegs Controllare se c&amp;rsquo;è un file di nome autoexec.cfg in etmain all&amp;rsquo;interno della cartella di installazione del gioco, se non c&amp;rsquo;è va creato.</description>
+    </item>
+    
+  </channel>
+</rss>
