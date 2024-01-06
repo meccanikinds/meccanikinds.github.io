@@ -1,11 +1,7 @@
-# hatesquad-hugo
+# 1/1000
 
-Repository per il sito di HateSquad, generato staticamente da hugo
+Repository per 1/1000, foto in pellicola perché avevano senso.
 
 ## TODO
 
-settare il server in modo che faccia `pull` con `crontab` della repository e generi il sito con
-    
-    hugo -D <switch che non ricordo>
-    
-gli switch che non ricordo sono quelli per mettere direttamente dentro `/var/www/html/` quello che di solito viene prodotto in `/public`.
+Pubblicare il sito con le azioni default, pensare all'organizzazione generale della faccenda.
