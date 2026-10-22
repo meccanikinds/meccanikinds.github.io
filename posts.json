@@ -1,0 +1,12 @@
+[
+  {
+    "foto": "foto/esempio1.jpg",
+    "data": "2026-10-12",
+    "testo": "Un post con una sola foto e una didascalia."
+  },
+  {
+    "foto": ["foto/esempio2.jpg", "foto/esempio3.jpg"],
+    "data": "2026-09-30",
+    "testo": "Un post con più foto: si scorrono di lato."
+  }
+]
